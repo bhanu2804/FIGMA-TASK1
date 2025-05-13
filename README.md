@@ -13,5 +13,5 @@
 **MENTOR**: NEELA SANTOSH
 
 
-**DESCRIPTION**:::The logo design mockup has been completed in Figma, reflecting the brand’s identity with a clean, modern style.
+**DESCRIPTION**:::The logo design mockup has been completed in Figma, that one is isometric logo mockup it reflecting the brand’s identity with a clean, modern style.
 Final assets include editable Figma files and high-resolution exports for use across digital and print media.
